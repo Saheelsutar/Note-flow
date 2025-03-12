@@ -24,8 +24,6 @@ cd noteflow
 npm install
 ```
 
-## 🛠 Usage
-
 Start the development server:
 
 ```sh
