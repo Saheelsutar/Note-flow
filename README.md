@@ -19,7 +19,7 @@ Noteflow is a powerful and intuitive note-taking web application designed to hel
 Clone the repository and install dependencies:
 
 ```sh
-git clone https://github.com/yourusername/noteflow.git
+git clone https://github.com/Saheelsutar/Note-flow.git
 cd noteflow
 npm install
 ```
